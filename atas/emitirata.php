@@ -47,7 +47,7 @@
     </nav>
     <br />
     <br />
-    <form action="cadnovaata.php?id=<?php echo $id; ?>" method="post">
+    <form action="cadnovaata.php" method="post">
       <div class="row">
         <div class="col-3">
           <label class="form-label">Início</label>
