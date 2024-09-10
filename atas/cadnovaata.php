@@ -20,3 +20,4 @@ if (mysqli_query($mysqli, $sql)) {
 }
 
 mysqli_close($mysqli);
+?>
